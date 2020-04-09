@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/bin/node /mnt/c/Program Files (x86)/Yarn/bin/yarn.js init
+
+PATH: 
+  /home/judelfino/.zinit/polaris/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_1804.2020.5.0_x64__79rhkp1fndgsc:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/Docker/Docker/Resources/bin:/mnt/c/Program Files (x86)/Common Files/Intel/Shared Files/cpp/bin/Intel64:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/Java/jdk1.8.0_221/bin:/mnt/c/Program Files/MongoDB/Server/4.0/bin:/mnt/c/xampp/php:/mnt/c/composer:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files (x86)/Yarn/bin/:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files (x86)/Brackets/command:/mnt/c/Users/pc-casa/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/pc-casa/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/pc-casa/AppData/Local/Android/Sdk/emulator:/mnt/c/Users/pc-casa/AppData/Local/Android/Sdk/tools:/mnt/c/Users/pc-casa/AppData/Local/Android/Sdk/tools/bin:/mnt/c/Users/pc-casa/AppData/Local/Android/Sdk/platform-tools:/mnt/c/Program Files/PostgreSQL/10/bin:/mnt/c/Users/pc-casa/AppData/Roaming/Composer/vendor/bin:/mnt/c/Users/pc-casa/AppData/Local/Yarn/bin:/mnt/c/Users/pc-casa/AppData/Local/hyper/app-3.0.2/resources/bin:/mnt/c/Users/pc-casa/AppData/Roaming/npm
+
+Yarn version: 
+  1.19.0
+
+Node version: 
+  8.10.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/mnt/c/Program Files (x86)/Yarn/lib/cli.js:136799:13)
+      at emitNone (events.js:106:13)
+      at Interface.emit (events.js:208:7)
+      at Interface._ttyWrite (readline.js:775:16)
+      at ReadStream.onkeypress (readline.js:160:10)
+      at emitTwo (events.js:126:13)
+      at ReadStream.emit (events.js:214:7)
+      at emitKeys (internal/readline.js:420:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1011:36)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
